@@ -1,0 +1,856 @@
+{
+  "updated": "2026-06-30 06:04 UTC",
+  "count": 105,
+  "sources": [
+    "Frequent Miler",
+    "The Points Guy",
+    "Doctor of Credit",
+    "One Mile at a Time",
+    "View from the Wing",
+    "God Save the Points",
+    "Thrifty Traveler"
+  ],
+  "errors": [],
+  "deals": [
+    {
+      "source": "One Mile at a Time",
+      "title": "The Scam Some Hotels Run To Get Paid More When You Redeem Points",
+      "link": "https://onemileatatime.com/insights/scam-hotels-run-paid-more-when-redeem-points/",
+      "summary": "Consumers don\u2019t often think about the economics of how hotels are reimbursed when loyalty program members redeem point for a stay. That brings us to an interesting post on Reddit, where a Hilton employee is asking if they should report thei\u2026",
+      "published": "2026-06-30T04:40:20+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "Frequent Miler",
+      "title": "What are Hyatt points worth now that the new award chart is live?",
+      "link": "https://frequentmiler.com/what-are-hyatt-points-worth/",
+      "summary": "At Frequent Miler, we keep a database of point valuations called \u201cReasonable Redemption Values.\u201d These are estimates of the \u201cworth\u201d of airline miles, hotel points, transferable points, and more. The idea is that we try to identify the point\u2026",
+      "published": "2026-06-30T01:45:39+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "Frequent Miler",
+      "title": "$10 St. Jude\u2019s donation possible via Domino\u2019s with Paze",
+      "link": "https://frequentmiler.com/10-st-judes-donation-possible-via-dominos-with-paze/",
+      "summary": "Doctor of Credit highlights an opportunity for those who still have cards eligible for the Paze promotion. Domino\u2019s Pizza sells an opportunity to donate to St. Jude Children\u2019s Research Hospital under their \u201cextras\u201d section. It is apparently\u2026",
+      "published": "2026-06-29T21:45:38+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "View from the Wing",
+      "title": "Hilton Employee Says Hotel Created Fake Guests To Get Paid More For Your Points Stays",
+      "link": "https://viewfromthewing.com/hilton-employee-says-hotel-created-fake-guests-to-get-paid-more-for-your-points-stays/",
+      "summary": "A Hilton employee says their hotel created fake occupied rooms before night audit to push occupancy over the threshold where Hilton Honors reimburses more for award stays. The alleged scheme may sound like inside-baseball accounting, but it\u2026",
+      "published": "2026-06-29T21:04:38+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "The Points Guy",
+      "title": "United adds new Turks and Caicos flight from Denver hub as stunning points hotels open on island",
+      "link": "https://thepointsguy.com/news/united-airlines-new-route-turks-and-caicos/",
+      "summary": "United Airlines is launching service from Denver International Airport (DEN) to Turks and Caicos during the winter, as the island gets a bunch of new hotels.",
+      "published": "2026-06-29T21:00:24+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "Doctor of Credit",
+      "title": "Donate $10 To St. Jude\u2019s For Free With Paze Promo (Domino\u2019s Checkout; Possible Tax Write-Off)",
+      "link": "https://www.doctorofcredit.com/donate-10-to-st-judes-for-free-with-paze-promo-dominos-checkout-possible-tax-write-off/",
+      "summary": "The banks are offering a free $10 ten times when checking out with Paze. Chase is also offering 10x Ultimate Rewards points bonus for Paze transactions. One of the eligible merchants is Domino\u2019s which is useful for getting nearly free pizza\u2026",
+      "published": "2026-06-29T19:28:06+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "Doctor of Credit",
+      "title": "Rakuten Wednesday\u2019s: 7% At Lowe\u2019s On July 1st",
+      "link": "https://www.doctorofcredit.com/rakuten-wednesdays-7-at-lowes-on-july-1st/",
+      "summary": "Rakuten weekly Big Deal on Wednesday: July 1st: 7% on Lowes.com July 8th: 10% on Expedia (hotel) July 22nd: 22% on Viator July 29th: 25% on PetSmart",
+      "published": "2026-06-29T19:09:18+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "One Mile at a Time",
+      "title": "What Should Hotels Realistically Offer Guests For Birthdays & Anniversaries?",
+      "link": "https://onemileatatime.com/insights/hotels-birthdays-anniversaries/",
+      "summary": "People stay at hotels for all kinds of reasons. For leisure guests, it\u2019s common to travel for some sort of a special occasion, like a birthday, anniversary, or honeymoon. Many travelers will let hotels know of those special occasions in adv\u2026",
+      "published": "2026-06-29T19:01:27+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "The Points Guy",
+      "title": "Survey: Family summer travel still booming, but costs are having a big impact",
+      "link": "https://thepointsguy.com/news/survey-family-summer-travel-still-booming/",
+      "summary": "New survey finds families are still prioritizing summer travel despite higher costs by choosing cheaper destinations, using points and miles, and planning smarter.",
+      "published": "2026-06-29T19:00:57+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "Frequent Miler",
+      "title": "Use Kroger points for groceries (1,000 points = $10 off)",
+      "link": "https://frequentmiler.com/use-kroger-points-for-groceries-1000-points-10-off/",
+      "summary": "Kroger regularly offers opportunities to earn bonus Kroger Points on gift card purchases and other items throughout the store. Historically, the best use of points has been for purchasing fuel, where 1,000 Kroger points gets you $1 off per \u2026",
+      "published": "2026-06-29T18:53:33+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "Frequent Miler",
+      "title": "Airbnb offering credit for booking select hotels through Airbnb",
+      "link": "https://frequentmiler.com/airbnb-offering-credit-for-booking-select-hotels-through-airbnb/",
+      "summary": "In addition to vacation rentals, Airbnb offers the opportunity to book select hotels, which can show up directly in the search results within the Airbnb app. A reader in our Frequent Miler Insiders Facebook group points out the fact that Ai\u2026",
+      "published": "2026-06-29T17:45:05+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "The Points Guy",
+      "title": "Why I\u2019m happy with my Chase Sapphire Preferred and not upgrading to the Sapphire Reserve",
+      "link": "https://thepointsguy.com/credit-cards/happy-with-chase-sapphire-preferred-not-upgrading/",
+      "summary": "The Chase Sapphire Preferred's welcome offer is back to 100,000 points. Here's why this low-annual-fee card still comes out ahead of the pricier Reserve.",
+      "published": "2026-06-29T17:00:02+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "Thrifty Traveler",
+      "title": "The Extra Mile, June 29: 2 Cards \u2026 1 Unbeatable Combo, a Hot SkyMiles Deal to Iceland & More",
+      "link": "https://thriftytraveler.com/newsletters/extra-mile/june-29-two-card-combo-skymiles-iceland/",
+      "summary": "Two cards are better than one: That's the whole argument \u2026 and it makes more sense than you might think. We'll show you why a specific pairing outperforms a card \u2026 Continued",
+      "published": "2026-06-29T16:28:21+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "The Points Guy",
+      "title": "6 credit card welcome bonuses you can earn with $1,000 (or less) in spending",
+      "link": "https://thepointsguy.com/credit-cards/credit-card-sign-up-bonuses-low-spend/",
+      "summary": "You can participate in points and miles even if you don't have much money to spend. Here are the welcome bonuses you can earn by spending $1,000 or less.",
+      "published": "2026-06-29T15:00:21+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "Doctor of Credit",
+      "title": "Kroger.com Gift Card Deals: $200 Lowe\u2019s for $180 & $115 Uber for $100",
+      "link": "https://www.doctorofcredit.com/kroger-com-gift-card-deals-100-lowes-for-180-115-uber-for-100/",
+      "summary": "Kroger.com: $100 Lowe's e-gift card for $80. Limit 2. $115 UberEATS e-gift card for $100. Limit 2. Valid 6/29/26 - 7/5/26",
+      "published": "2026-06-29T14:37:04+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "Doctor of Credit",
+      "title": "Bestbuy.com: $50 Instacart eGiftcard For $45",
+      "link": "https://www.doctorofcredit.com/bestbuy-com-50-instacart-egiftcard-for-45/",
+      "summary": "Bestbuy.com is selling $50 Instacart eGift card for $45. Limit 1. Nice stack with the Citi Strata Elite splurge credit or stack with 10% off via Chase Offer",
+      "published": "2026-06-29T14:31:46+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "Frequent Miler",
+      "title": "20% off a StubHub gift card (up to $30) for DoorDash DashPass members",
+      "link": "https://frequentmiler.com/20-off-a-stubhub-gift-card-up-to-30-for-doordash-dashpass-members/",
+      "summary": "DoorDash is offering 10-20% off select digital gift cards through 6/30/26, including 20% off a StubHub gift card (up to $30 off). While DoorDash also has its other regular gift card deals, StubHub may be particularly useful for some. The De\u2026",
+      "published": "2026-06-29T13:45:31+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "Doctor of Credit",
+      "title": "Deal Calendar (Full List Of Deals, Credit Card & Bank Bonuses + Their Expiry Dates)",
+      "link": "https://www.doctorofcredit.com/deal-calendar-full-list-deals-credit-card-bank-bonuses-expiry-dates/",
+      "summary": "It can be difficult to keep track of all the deals we post and I know a lot of readers get angry at themselves when they miss a deal. I have a calendar set up reminding me when deals are set to expire and thought having something publicly f\u2026",
+      "published": "2026-06-29T13:30:33+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "Doctor of Credit",
+      "title": "Postmates: $15 Off $30 With Promo Code KNOCKOUTMEAL (Nationwide), Delivery Only",
+      "link": "https://www.doctorofcredit.com/postmates-15-off-45-with-promo-code-dodgers/",
+      "summary": "Postmates is offering $15 off $45+ with promo code DODGERS",
+      "published": "2026-06-29T13:05:13+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "Thrifty Traveler",
+      "title": "Last Chance: Get a 25% Amex Transfer Bonus to Air France/KLM Flying Blue",
+      "link": "https://thriftytraveler.com/deals/points/amex-transfer-bonus-air-france-klm/",
+      "summary": "While American Express has fallen short on transfer bonuses lately, there's currently a good one that's worth your attention \u2026 if you hurry. Points from cards like the *amex gold \u2026 Continued",
+      "published": "2026-06-29T12:16:30+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "One Mile at a Time",
+      "title": "Southwest Credit Card Offers: Earn Up To 90,000 Bonus Points (Last Chance)",
+      "link": "https://onemileatatime.com/deals/southwest-credit-card-bonus/",
+      "summary": "Southwest Airlines is one of the most flown airlines in the United States, thanks to its massive domestic route network, along with generally friendly service. The carriers co-branded credit cards are quite popular with consumers, and sever\u2026",
+      "published": "2026-06-29T10:45:55+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "Frequent Miler",
+      "title": "Is it still worth collecting Hilton points on stays?",
+      "link": "https://frequentmiler.com/is-it-still-worth-collecting-hilton-points-on-stays/",
+      "summary": "Now that Hilton points are worth far less than they once were, a reader emailed us this week to ask the following: With Hilton points now devalued to a 0.35 cents per point Reasonable Redemption Value, is it time to stop accumulating Hilton\u2026",
+      "published": "2026-06-29T01:45:15+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "Doctor of Credit",
+      "title": "DoorDash DashPass Members: 20% off Stubhub, 10% off eBay, Best Buy, DoorDash, Lowe\u2019s & More",
+      "link": "https://www.doctorofcredit.com/doordash-save-15-off-many-egiftcard-brands-starbucks-zift-amazon-lowes-doordash-walgreens-outback-and-many-more/",
+      "summary": "DoorDash has a special gift card site for selling digital gift cards. They are currently offering 15% discount off many popular gift card brands: Starbucks; Zift choice card which includes popular options like Amazon, Lowe's, Staples, South\u2026",
+      "published": "2026-06-28T22:36:54+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "Doctor of Credit",
+      "title": "Venmo: Pay $30 on Whatnot & Get $10 Bonus",
+      "link": "https://www.doctorofcredit.com/venmo-pay-30-on-whatnot-get-10-bonus/",
+      "summary": "Venmo is offering $10 when you shop $30 or more on Whatnot and pay with Venmo. Valid through 7/10/26.",
+      "published": "2026-06-28T21:52:41+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "Doctor of Credit",
+      "title": "Amazon: Save 40% On Select Dog Treats (Must Buy 4)",
+      "link": "https://www.doctorofcredit.com/amazon-save-40-on-select-dog-treats-must-buy-4/",
+      "summary": "Amazon is offering 40% off when you buy four products from a list of select dog treats. From a quick look at the pricing this looks like a real 40% savings",
+      "published": "2026-06-28T20:26:55+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "Doctor of Credit",
+      "title": "Dollar General: Save 15% On Giftcards For DoorDash, Sonic, Roblox and more",
+      "link": "https://www.doctorofcredit.com/dollar-general-save-15-on-giftcards-for-doordash-sonic-roblox-and-more/",
+      "summary": "Dollar General: 15% discount (6/28 - 7/4/26): DoorDash, Roblox AMC Theatres Sonic Cinemark Academy, Zaxby\u2019s. Stacks with the AmEx Offer for 10% off",
+      "published": "2026-06-28T20:12:16+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "One Mile at a Time",
+      "title": "Big Alaska Atmos Rewards Summit Card Offer: 100K Points, 25K Award, 50% Off",
+      "link": "https://onemileatatime.com/deals/alaska-atmos-rewards-summit-card-bonus/",
+      "summary": "In August 2025, we saw the launch of the $395 annual fee Atmos Rewards Summit Visa InfiniteCredit Card, one of the most lucrative airline credit cards on the market. This is a card I have, and it\u2019s one where I think it\u2019s really hard to go w\u2026",
+      "published": "2026-06-28T19:36:54+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "View from the Wing",
+      "title": "The Bilt Palladium Card Looks Too Complicated. Used Simply, It May Be The Best Everyday Rewards Card",
+      "link": "https://viewfromthewing.com/the-bilt-palladium-card-looks-too-complicated-used-simply-it-may-be-the-best-everyday-rewards-card/",
+      "summary": "The Bilt Palladium Card looks complicated, but even used simply as a 2x-everywhere card it may be the strongest general spending product on the market because Bilt Points transfer to the best airline and hotel partners. For those willing to\u2026",
+      "published": "2026-06-28T18:04:26+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "The Points Guy",
+      "title": "Booking an Airbnb or Vrbo? Here\u2019s how to earn extra airline rewards",
+      "link": "https://thepointsguy.com/news/earn-airline-miles-airbnb/",
+      "summary": "You can earn extra airline miles or points on eligible Airbnb and Vrbo bookings by starting with select airline partner pages or shopping portals. Here\u2019s how.",
+      "published": "2026-06-28T18:00:23+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "Doctor of Credit",
+      "title": "Chase/AmEx/U.S. Bank Offers: Get 5% Back At Food Lion (Max $5 Back)",
+      "link": "https://www.doctorofcredit.com/citi-offers-get-3-back-at-food-lion/",
+      "summary": "Check your Citi Offers for the following deal: Get 3% cash back at Food Lion, up to $8 back. Expires April 30, 2024.",
+      "published": "2026-06-28T17:00:18+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "Doctor of Credit",
+      "title": "[YMMV] OKX: Buy $10 in Crypto for Five Days & Get $50 XRP",
+      "link": "https://www.doctorofcredit.com/okx-buy-10-in-crypto-for-five-days-get-50-xrp/",
+      "summary": "OKX is offering a $50 reward when you buy $10 in crypto through the app for five days with recurring buy. Offer ends on July 9th",
+      "published": "2026-06-28T16:46:40+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "Frequent Miler",
+      "title": "Greg\u2019s top picks (my favorite card offers)",
+      "link": "https://frequentmiler.com/top-current-credit-card-offers/",
+      "summary": "Below you\u2019ll find my picks for the best current credit card offers, along with a dash of analysis. Note that the 100K Atmos Summit offer ends very soon (June 30)\u2026 Background Our Best Credit Card Offers page always shows the best offers sort\u2026",
+      "published": "2026-06-28T14:45:22+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "The Points Guy",
+      "title": "Last chance for these Southwest credit card offers: Earn up to 90,000 Rapid Rewards points",
+      "link": "https://thepointsguy.com/credit-cards/southwest-cards-current-offers/",
+      "summary": "You can earn a stash of bonus points with the Southwest Airlines personal credit cards' welcome bonus offers. Here is what you need to know.",
+      "published": "2026-06-28T14:00:43+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "Frequent Miler",
+      "title": "Last Chance Deals: 7 transfer bonuses, 5X-7X quarterly spending bonuses, & much, much more",
+      "link": "https://frequentmiler.com/last-chance-deals/",
+      "summary": "Welcome to our weekly list of what\u2019s ending this week as well as a collection of some other deals that are due to end soon. It\u2019s an extremely busy week for deals that are about to end because Tuesday is both the end of the month and end of \u2026",
+      "published": "2026-06-28T01:45:07+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "Frequent Miler",
+      "title": "Is my brain built for this? Managing points and miles even when it doesn\u2019t come naturally (A Carrie commentary)",
+      "link": "https://frequentmiler.com/is-my-brain-built-for-this-managing-points-and-miles-even-when-it-doesnt-come-naturally-a-carrie-commentary/",
+      "summary": "Does anyone else feel a little bit like the art kid attempting to ace a math class when learning about miles and points strategies? When I go to points and miles conferences or even listen to the Frequent Miler on the Air podcast from week \u2026",
+      "published": "2026-06-27T22:45:28+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "One Mile at a Time",
+      "title": "Weekly Review: June 27, 2026",
+      "link": "https://onemileatatime.com/weekly-review/2026-06-27/",
+      "summary": "I hope everyone is having a nice weekend so far! Hello from beautiful, and swelteringly hot, South Tyrol\u2026 and here I was thinking we\u2019d slightly be escaping the heat by leaving Florida! On the points & travel front, this week Ryanair updated\u2026",
+      "published": "2026-06-27T20:45:00+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "The Points Guy",
+      "title": "Delta SkyMiles: Your complete guide to earning, redeeming and elite status",
+      "link": "https://thepointsguy.com/loyalty-programs/ultimate-guide-delta-skymiles/",
+      "summary": "Everything you need to know about Delta SkyMiles, from earning and redeeming miles to qualifying for Delta Medallion status.",
+      "published": "2026-06-27T18:00:17+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "One Mile at a Time",
+      "title": "Chase Sapphire Preferred & Reserve Card Bonus Eligibility Rules: Earn Up To 400K Bonus Points With Three Cards",
+      "link": "https://onemileatatime.com/guides/chase-sapphire-card-eligibility/",
+      "summary": "TheChase Sapphire Preferred Card (learn more) andChase Sapphire Reserve Card(learn more) are among the most popular personal travel rewards cards, while theSapphire Reserve for Business(learn more) is quickly becoming one of the most popula\u2026",
+      "published": "2026-06-27T14:47:21+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "Frequent Miler",
+      "title": "Getting in on great deals, creating the ultimate credit card collections, and more (Week in Review)",
+      "link": "https://frequentmiler.com/getting-in-on-great-deals-creating-the-ultimate-credit-card-collections-and-more-week-in-review/",
+      "summary": "More than a decade ago, my wife and I were early subscribers to a service called MoviePass, paying about $20 per month to go to an unlimited number of movies. For a couple of years, we saw almost every major movie, and the theater felt like\u2026",
+      "published": "2026-06-27T11:49:48+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "The Points Guy",
+      "title": "Deal alert: Points and miles travel deals for June 2026",
+      "link": "https://thepointsguy.com/deals/points-and-miles-travel-deals/",
+      "summary": "Save, maximize and earn points and miles on various travel purchases this June.",
+      "published": "2026-06-26T20:00:10+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "Frequent Miler",
+      "title": "(EXPIRED) 10X / 10% back on Dell via Rakuten",
+      "link": "https://frequentmiler.com/10x-10-back-on-dell-via-rakuten/",
+      "summary": "Rakuten is currently offering 10 points per dollar or 10% back on purchases made at Dell. That can be particularly useful for anybody with a card that features statement credits for Dell purchases and/or anyone looking to stack with a card-\u2026",
+      "published": "2026-06-26T19:45:21+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "The Points Guy",
+      "title": "Chase credit cards: Best time to apply based on offer history",
+      "link": "https://thepointsguy.com/credit-cards/chase-best-welcome-offers/",
+      "summary": "Credit card welcome bonus offers can change quickly and over time. Here's what to know about Chase's bonuses so you can know when to apply.",
+      "published": "2026-06-26T19:00:06+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "Frequent Miler",
+      "title": "Paze credits posted on some accounts, not posted on others",
+      "link": "https://frequentmiler.com/paze-credits-posted-on-some-accounts-not-posted-on-others/",
+      "summary": "A couple of days ago, Doctor of Credit reported that statement credits are starting to show up for Paze transactions based on the $10 back on a purchase of $10 or more promotion that launched last week. Many folks made purchases within the \u2026",
+      "published": "2026-06-26T17:45:23+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "Thrifty Traveler",
+      "title": "A Complete Guide to World of Hyatt: Free Nights, Credit Cards & More",
+      "link": "https://thriftytraveler.com/guides/hotels/world-of-hyatt/",
+      "summary": "For years, World of Hyatt was hands down our favorite hotel loyalty program \u2026 but a series of recent changes has us rethinking things. First, Hyatt introduced a new five-tiered award \u2026 Continued",
+      "published": "2026-06-26T16:33:11+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "Thrifty Traveler",
+      "title": "Delta SkyMiles Platinum Card: A Big Bonus, Companion Pass & More",
+      "link": "https://thriftytraveler.com/reviews/credit-card/delta-skymiles-platinum-american-express-card/",
+      "summary": "American Express and Delta offer a suite of co-branded credit cards, ranging from a basic, no-annual-fee card with limited benefits to a top-tier (and top-dollar) card that gets you lounge \u2026 Continued",
+      "published": "2026-06-26T14:35:27+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "Thrifty Traveler",
+      "title": "The Extra Mile, June 26: Analyzing AA Miles, Amazing Southwest Redemptions & More",
+      "link": "https://thriftytraveler.com/newsletters/extra-mile/june-26-aa-miles-southwest/",
+      "summary": "Before you head out for the weekend, we've got a jam-packed newsletter for you with a hot tip on beating high airfare, a great way to redeem Southwest Rapid Rewards, \u2026 Continued",
+      "published": "2026-06-26T14:03:14+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "Thrifty Traveler",
+      "title": "Airfare is Up, American AAdvantage Miles Rates Aren\u2019t",
+      "link": "https://thriftytraveler.com/deals/flights/airfare-is-going-up-aa-miles-rates-arent/",
+      "summary": "The antidote to high airfare might be sitting in your American AAdvantage account. We know that airfare was up nearly 30% last month (year-over-year), and if you're doing some searching \u2026 Continued",
+      "published": "2026-06-26T13:04:25+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "God Save the Points",
+      "title": "A Flight Only Bookable With Points Offers Amazing Winter Sun",
+      "link": "https://www.godsavethepoints.com/ba-avios-winter-sun-points-only-flights/",
+      "summary": "I often tell people that the best unkept secret with Avios is, in fact, the Avios app. Separate to the British Airways app, the Avios app... The post A Flight Only Bookable With Points Offers Amazing Winter Sun appeared first on God Save Th\u2026",
+      "published": "2025-07-31T13:41:31+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "God Save the Points",
+      "title": "Current Business and First Class Deals (Updated MAY 2025)",
+      "link": "https://www.godsavethepoints.com/hottest-current-business-first-class-deals/",
+      "summary": "We teamed up with our friends at Premium-Flights to make this awesome, live and living deal page for you. Here, you can easily see the latest... The post Current Business and First Class Deals (Updated MAY 2025) appeared first on God Save T\u2026",
+      "published": "2025-03-30T13:15:00+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "God Save the Points",
+      "title": "Final Call: \u00a31657 London-New York Business Class + Hotel Offers",
+      "link": "https://www.godsavethepoints.com/ba-sale-london-business-class-flight-offers-mar-25/",
+      "summary": "The baseline for great flight deals has gone up a bit in 2025, but there\u2019s a chance to get around that today with a great British... The post Final Call: \u00a31657 London-New York Business Class + Hotel Offers appeared first on God Save The Poi\u2026",
+      "published": "2025-03-17T10:43:55+00:00",
+      "is_deal": true
+    },
+    {
+      "source": "Frequent Miler",
+      "title": "Lifemiles+ eliminates free cancellation benefit for new subscribers",
+      "link": "https://frequentmiler.com/lifemiles-eliminates-free-cancellation-benefit-for-new-subscribers/",
+      "summary": "Avianca Lifemiles has a subscription service called Lifemiles+. I\u2019ve written pretty extensively about the value in subscribing to Lifemiles+, particularly for family travelers, since those subscribing to the Basic plan or higher have enjoye\u2026",
+      "published": "2026-06-30T00:53:56+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "Frequent Miler",
+      "title": "Alaska Atmos rolling out free Wi-Fi for members on Hawaiian and Alaska flights",
+      "link": "https://frequentmiler.com/alaska-atmos-rolling-out-free-wi-fi-for-members-on-hawaiian-and-alaska-flights/",
+      "summary": "Late last week, Alaska Airlines announced that it now has approximately 150 aircraft equipped with Starlink Wi-Fi. In partnership with T-Mobile, they have made free Wi-Fi available to Alaska Atmos members. Wi-Fi is now complimentary on all \u2026",
+      "published": "2026-06-29T23:45:07+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "Frequent Miler",
+      "title": "Free 1-year New York Times subscription with $500+ Delta gift card purchase",
+      "link": "https://frequentmiler.com/free-1-year-new-york-times-subscription-with-500-delta-gift-card-purchase/",
+      "summary": "Delta Airlines is offering members a one-time-use link in their email to purchase a Delta gift card and activate a complimentary one-year all-access digital subscription to the New York Times when they buy a gift card of $500 or more. I cur\u2026",
+      "published": "2026-06-29T22:45:55+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "Thrifty Traveler",
+      "title": "The 8 Best Credit Cards for Airbnb & Vrbo Vacation Rentals",
+      "link": "https://thriftytraveler.com/guides/credit-card/best-cards-vacation-rentals/",
+      "summary": "For years, we've considered the *capital one venture card and the more premium *venture x* to be the best cards for booking vacation rentals with the likes of Airbnb and \u2026 Continued",
+      "published": "2026-06-29T21:17:50+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "The Points Guy",
+      "title": "Royal ONE or Royal ONE Plus? Here\u2019s how to choose",
+      "link": "https://thepointsguy.com/credit-cards/royal-one-cards-how-to-choose/",
+      "summary": "Are you a frequent Royal Caribbean cruiser and considering the cruise line's new credit cards? Here's a look at both to decide which may be best for you.",
+      "published": "2026-06-29T20:00:59+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "Thrifty Traveler",
+      "title": "Is the Chase Sapphire Preferred\u00ae Card Worth its $95 Annual Fee?",
+      "link": "https://thriftytraveler.com/guides/credit-card/chase-sapphire-preferred-annual-fee/",
+      "summary": "For more than a decade, the *chase sapphire preferred* has been one of the easiest recommendations in travel rewards. A $95 card that punches so far above its weight class \u2026 Continued",
+      "published": "2026-06-29T19:30:36+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "View from the Wing",
+      "title": "Hertz Renter Actually Deserved Arrest And Passenger Says American Airlines Broke Her Arm",
+      "link": "https://viewfromthewing.com/hertz-renter-actually-deserved-arrest-and-passenger-says-american-airlines-broke-her-arm/",
+      "summary": "A Hertz renter allegedly stole the car and actually deserved arrest, American Airlines is again accused of forcing gate-checked bags despite empty overhead bins. Also: hotel-room lasagna, Air France\u2019s apparent ground A/C advantage, and a ne\u2026",
+      "published": "2026-06-29T18:34:31+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "The Points Guy",
+      "title": "Celebrate America\u2019s 250th birthday: Book these hotels for less than $250 this summer",
+      "link": "https://thepointsguy.com/hotel/america-250-hotels/",
+      "summary": "At these hotels, you can commemorate America's semiquincentennial without breaking the bank.",
+      "published": "2026-06-29T18:00:47+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "One Mile at a Time",
+      "title": "My Worst Hotel Spa Massage Experience Ever: What Would You Have Done?",
+      "link": "https://onemileatatime.com/insights/worst-hotel-spa-experience/",
+      "summary": "Up until now, my strangest hotel spa experience ever has been when I stayed at a Marriott property in China, and the spa therapist tried to aggressively \u201dhard sell\u201d off-menu spa services. Despite repeated denials, the hard selling, and heav\u2026",
+      "published": "2026-06-29T16:27:40+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "The Points Guy",
+      "title": "How to get Delta Sky Club lounge access with credit cards, elite status and more",
+      "link": "https://thepointsguy.com/loyalty-programs/ultimate-guide-delta-sky-club-access/",
+      "summary": "Learn about Delta Sky Club access, including through credit cards and cabin of travel. Here's what you need to know to visit a Sky Club on your next trip.",
+      "published": "2026-06-29T16:00:05+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "View from the Wing",
+      "title": "United Airlines Baggage And Check-in Workers Reject Contract As Members Rebel Against Their Union",
+      "link": "https://viewfromthewing.com/united-airlines-baggage-and-check-in-workers-reject-contract-as-members-rebel-against-their-union/",
+      "summary": "United\u2019s largest IAM-represented work groups have rejected a proposed contract, including baggage, ramp, check-in, customer service, and load-planning workers. The vote is as much a rebuke of the union as the airline, with members objecting\u2026",
+      "published": "2026-06-29T15:58:12+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "One Mile at a Time",
+      "title": "Marriott Bonvoy Welcome Gift Guarantee Compensation: Am I Too Sheepish?",
+      "link": "https://onemileatatime.com/insights/marriott-bonvoy-welcome-gift-guarantee/",
+      "summary": "Typically I have no issues holding hotels accountable when they don\u2019t honor published elite perks. However, Marriott Bonvoy\u2019s elite welcome gift guarantee might be the one exception, as it\u2019s something I really struggle with, probably becaus\u2026",
+      "published": "2026-06-29T15:08:33+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "View from the Wing",
+      "title": "British Airways Flight Attendants Can Now Sleep In Empty First And Business Class Seats",
+      "link": "https://viewfromthewing.com/british-airways-flight-attendants-can-now-sleep-in-empty-first-and-business-class-seats/",
+      "summary": "British Airways is now allowing flight attendants to sleep in empty first and business class passenger seats on long-haul aircraft that lack proper crew bunks. Passengers are not supposed to be moved, and crew are told to stay inconspicuous\u2026",
+      "published": "2026-06-29T14:04:47+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "Doctor of Credit",
+      "title": "Best Brokerage Bonuses \u2013 Earn Up To $5,000",
+      "link": "https://www.doctorofcredit.com/best-brokerage-bonuses-earn-up-to-3500/",
+      "summary": "This page has been updated for 2026. We are now also including hold periods in the top description to make it easier to sort. Remember it might make sense to hit the smaller bonuses with shorter hold periods before hitting the ones with lon\u2026",
+      "published": "2026-06-29T14:00:51+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "One Mile at a Time",
+      "title": "How Much Has American Airlines Really Improved? Let\u2019s Not Be Too Charitable",
+      "link": "https://onemileatatime.com/insights/how-much-has-american-airlines-really-improved/",
+      "summary": "In early 2025, American Airlines executives shared their vision to once again make the airline more premium, given the carrier\u2019s lagging financials, compared to rivals Delta and United. For so long, American executives were convinced the ai\u2026",
+      "published": "2026-06-29T13:31:38+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "The Points Guy",
+      "title": "The parent's guide to Universal Kids Resort: Big fun and bigger savings",
+      "link": "https://thepointsguy.com/travel/universal-kids-resort-texas/",
+      "summary": "Save money on big fun for little kids at Universal's newest theme park in Texas with these tips",
+      "published": "2026-06-29T13:00:03+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "One Mile at a Time",
+      "title": "Yikes: Australia Busts Thai Airways Flight Attendant With One Kilogram Of Heroin",
+      "link": "https://onemileatatime.com/news/australia-busts-thai-airways-flight-attendant-one-kilogram-heroin/",
+      "summary": "A Thai Airways flight attendant has been busted trying to import one kilogram of heroin into Australia. That\u2019s going to have some major consequences\u2026",
+      "published": "2026-06-29T12:05:42+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "View from the Wing",
+      "title": "Orlando Airport Passengers Threatened With Arrest If They Left Customs Without Checked Bags During 5-Hour Delay",
+      "link": "https://viewfromthewing.com/orlando-airport-passengers-threatened-with-arrest-if-they-left-customs-without-checked-bags-during-5-hour-delay/",
+      "summary": "International passengers arriving at Orlando were stuck in customs for more than five hours after weather delayed checked bags, leaving hundreds of people with no food, seating, or clear way out. Passengers say they were threatened with arr\u2026",
+      "published": "2026-06-29T12:04:01+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "The Points Guy",
+      "title": "I've stayed in over 60 Airbnbs \u2014 here's why the Chase Sapphire Preferred just became my go-to travel card",
+      "link": "https://thepointsguy.com/credit-cards/why-chase-sapphire-preferred-is-my-go-to-airbnb-card/",
+      "summary": "After staying in more than 60 Airbnbs over the last 15 years, here's why the Chase Sapphire Preferred is now my go-to card for Airbnb stays.",
+      "published": "2026-06-29T12:00:35+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "Thrifty Traveler",
+      "title": "The Thrifty Traveler Podcast, Ep. 68: Something(s) Hot: What\u2019s Going Right in Travel",
+      "link": "https://thriftytraveler.com/podcasts/ep-68-whats-going-right-in-travel/",
+      "summary": "Don\u2019t dwell on the bad stuff, the guys remind themselves \u2026 because there\u2019s plenty to be excited about in travel right now! So this week on the pod, Gunnar and \u2026 Continued",
+      "published": "2026-06-29T11:30:49+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "One Mile at a Time",
+      "title": "British Airways Crews Can Now Rest In Empty First & Business Class Seats",
+      "link": "https://onemileatatime.com/news/british-airways-crews-rest-empty-first-business-class-seats/",
+      "summary": "British Airways has reportedly updated its crew rest policy, to allow flight attendant to occupy empty seats in first and business class on long haul flights, assuming the aircraft don\u2019t have dedicated crew rest facilities. While I\u2019m all fo\u2026",
+      "published": "2026-06-29T11:15:46+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "View from the Wing",
+      "title": "Delta Air Lines Set To Launch Austin To Paris Flights Next Summer As Its Big Texas Bet Goes International",
+      "link": "https://viewfromthewing.com/delta-air-lines-set-to-launch-austin-to-paris-flights-next-summer-as-its-big-texas-bet-goes-international/",
+      "summary": "Delta Air Lines is expected to launch Austin to Paris flights next summer, giving the carrier\u2019s growing Texas focus a major international boost. The move would fit with Delta\u2019s larger Austin strategy: growing their American Express card, ca\u2026",
+      "published": "2026-06-29T11:04:46+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "One Mile at a Time",
+      "title": "Hotel Welcome Amenities: What Are They, When Should You Expect Them?",
+      "link": "https://onemileatatime.com/guides/hotel-welcome-amenity/",
+      "summary": "When you check into a nice hotel, you might find that a welcome amenity of some sort is often placed in your room. However, this can cause some confusion, given the inconsistency with which this is offered. So I\u2019d like to address that in th\u2026",
+      "published": "2026-06-29T10:50:00+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "Frequent Miler",
+      "title": "How are you using AI for trip planning? | Question of the Week Ep7 | 6-27-26",
+      "link": "https://frequentmiler.com/how-are-you-using-ai-for-trip-planning-question-of-the-week-ep7-6-27-26/",
+      "summary": "How are you using AI for trip planning? Frequent Miler reader Jared wrote in: I recently asked the Bilt Neighborhood Concierge AI which weekends a particular Bilt Home Away from Home hotel (Kimpton Journeyman) had availability between Augus\u2026",
+      "published": "2026-06-28T22:45:54+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "View from the Wing",
+      "title": "The World\u2019s Best Airport Lounges Are Hard To Access. Here\u2019s How You Can Actually Get Into Them",
+      "link": "https://viewfromthewing.com/the-worlds-best-airport-lounges-are-hard-to-access-heres-how-you-can-actually-get-into-them/",
+      "summary": "Air France La Premi\u00e8re may be the best airport lounge in the world, but almost nobody can access it. These are the lounges I\u2019d actually build a trip around, from Qatar\u2019s museum-like Al Safwa lounge and Cathay Pacific\u2019s The Pier to Qantas Fi\u2026",
+      "published": "2026-06-28T21:04:26+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "Doctor of Credit",
+      "title": "Staples: No Purchase Fee On $200 Visa Gift Cards (6/28-7/4)",
+      "link": "https://www.doctorofcredit.com/staples-no-purchase-fee-on-200-visa-gift-cards-10-31-11-6-limit-5/",
+      "summary": "Staples stores will be offering fee-free Visa gift cards during the week of",
+      "published": "2026-06-28T20:32:28+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "Doctor of Credit",
+      "title": "(Update) New \u2018Verizon Shine\u2019 Rewards Program: 3% Back Verizon Dollars, Weekly Reward Drops (like T-Mobile Tuesday), Avoid Fees",
+      "link": "https://www.doctorofcredit.com/new-verizon-shine-rewards-program-3-back-verizon-dollars-weekly-reward-drops-like-t-mobile-tuesday-avoid-fees/",
+      "summary": "The new Verizon Shine loyalty program gets you 3% back in Verizon Dollars, weekly freebie drops, and saves you the activation fee and upgrade fee",
+      "published": "2026-06-28T20:21:01+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "One Mile at a Time",
+      "title": "The World\u2019s Worst Business Class Seats: Here Are My Picks, Do You Agree?",
+      "link": "https://onemileatatime.com/guides/worst-business-class-seats/",
+      "summary": "Typically I like to make \u201dbest of\u201d lists, including about the world\u2019s best business class seats, world\u2019s best business class airlines, etc. Not to be too negative, but I thought it would be nice to mix things up, and talk about the world\u2019s \u2026",
+      "published": "2026-06-28T19:04:10+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "One Mile at a Time",
+      "title": "Bilt Credit Card Guide: Compare Benefits And Rewards Of All 3 Bilt Cards",
+      "link": "https://onemileatatime.com/guides/bilt-credit-cards/",
+      "summary": "Bilt is the platform that is best known for offering rewards for housing payments. Earlier this year we saw major changes to the company\u2019s rewards concept, and Bilt now has three Mastercard credit cards serviced by Cardless, which are poten\u2026",
+      "published": "2026-06-28T18:53:46+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "View from the Wing",
+      "title": "Hilton Guests Bear-Sprayed At Pool, Qantas First Lounge Floods, And British Airways Leaves Drinks On The Floor",
+      "link": "https://viewfromthewing.com/hilton-guests-bear-sprayed-at-pool-qantas-first-lounge-floods-and-british-airways-leaves-drinks-on-the-floor/",
+      "summary": "Embassy Suites guests were attacked with bear spray during a pool argument, the Qantas First Lounge at LAX is closed after flooding, and British Airways faces a food-safety complaint over drinks stored on the cabin floor. Also: American\u2019s L\u2026",
+      "published": "2026-06-28T18:34:57+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "The Points Guy",
+      "title": "Chase Sapphire Preferred vs. Ink Business Preferred: Which $95-a-year card should you get?",
+      "link": "https://thepointsguy.com/credit-cards/chase-sapphire-preferred-vs-ink-business-preferred/",
+      "summary": "Not sure whether to get the Sapphire Preferred or Ink Business Preferred? Compare rewards, travel perks, fees and welcome offers.",
+      "published": "2026-06-28T16:00:20+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "View from the Wing",
+      "title": "American Airlines Is Better Than You Think After 18 Months Of Changes. It Still Needs A Premium Identity",
+      "link": "https://viewfromthewing.com/american-airlines-is-better-than-you-think-after-18-months-of-changes-it-still-needs-a-premium-identity/",
+      "summary": "American Airlines has quietly improved more than many passengers realize, from new lounges and better coffee to free Wi-Fi, Starlink plans, better cabins, improved standby rules, a stronger app, and major airport investments. But the airlin\u2026",
+      "published": "2026-06-28T15:58:38+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "One Mile at a Time",
+      "title": "Second Delta One Lounge Opening At LAX, As Delta Tries To Grow At Airport",
+      "link": "https://onemileatatime.com/news/second-delta-one-lounge-lax/",
+      "summary": "A few weeks ago I covered how Delta Air Lines revealed plans to open a second Delta One Lounge at LAX, making it the first airport where the airline will have two Delta One Lounges. This is interesting, as it\u2019s clearly part of a broader gro\u2026",
+      "published": "2026-06-28T15:35:15+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "One Mile at a Time",
+      "title": "Say What: Delta CEO Ed Bastian Blames High Airfare On\u2026 Air Traffic Control?!",
+      "link": "https://onemileatatime.com/news/delta-ceo-ed-bastian-blames-high-airfare-air-traffic-control/",
+      "summary": "Delta\u2019s CEO recently gave an interview where he proactively volunteered what it\u2019ll take for airfare to go down. He claimed airfare is high due to capacity constraints, and he stated the solution to that is air traffic control reform. That s\u2026",
+      "published": "2026-06-28T14:03:59+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "Frequent Miler",
+      "title": "Fee-free Visa Gift Cards in-store at Staples",
+      "link": "https://frequentmiler.com/easy-5x-fee-free-visa-gift-cards-at-staples/",
+      "summary": "Staples is again offering fee-free fixed $200 Visa Gift Cards, through Saturday, July 4, 2026. The limit is nine per customer per day in-store, although some stores may allow more. Different stores appear to have different policies regardin\u2026",
+      "published": "2026-06-28T13:56:08+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "One Mile at a Time",
+      "title": "Air India Pilot Suspended For Flying Into Pakistani Airspace While In Holding Pattern",
+      "link": "https://onemileatatime.com/news/air-india-pilot-suspended-flying-pakistani-airspace/",
+      "summary": "An Air India pilot and air traffic controller have been suspended by Indian regulators over an incident that happened near Amritsar, while the city\u2019s airport shut down for a runway inspection following a bird strike. The issue? Well, a plan\u2026",
+      "published": "2026-06-28T13:30:31+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "One Mile at a Time",
+      "title": "Cute, But Hard Pass: SWISS Serving \u201cBastardo\u201d Hot Dog In First Class",
+      "link": "https://onemileatatime.com/news/swiss-serving-bastardo-hot-dog-first-class/",
+      "summary": "Typically travelers would scoff at the concept of an airline serving hot dogs in international first class, where tickets can cost $10K+. However, Lufthansa Group carrier SWISS is proudly serving hot dogs in first class, down to the point t\u2026",
+      "published": "2026-06-28T13:00:33+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "One Mile at a Time",
+      "title": "Air Canada Plane \u201cSwerves\u201d As Captain Incapacitated Mid-Flight, Leading To Emergency Diversion",
+      "link": "https://onemileatatime.com/news/air-canada-plane-swerves-captain-incapacitated-mid-flight-emergency-diversion/",
+      "summary": "An Air Canada Express flight operated by regional partner PAL Airlines reportedly started \u201dswerving\u201d mid-flight, not due to turbulence, but instead, because the captain became incapacitated. This of course caused an emergency diversion, and\u2026",
+      "published": "2026-06-28T12:30:53+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "One Mile at a Time",
+      "title": "How Concerned Are You About Hotel Room Safety? Here\u2019s My Approach\u2026",
+      "link": "https://onemileatatime.com/insights/hotel-room-safety/",
+      "summary": "We all have different habits when staying at hotels, and that includes the precautions we take when it comes to hotel room safety and security.",
+      "published": "2026-06-28T12:00:43+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "The Points Guy",
+      "title": "How to use the $100 hotel credit on the Chase Sapphire Preferred in 2026",
+      "link": "https://thepointsguy.com/credit-cards/chase-sapphire-preferred-hotel-credit/",
+      "summary": "Maximize your Chase Sapphire Preferred Card benefits with this guide to using the $100 annual hotel statement credit.",
+      "published": "2026-06-27T20:00:59+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "The Points Guy",
+      "title": "The ultimate Sanibel Island guide: Beaches, shelling, dining and things to do",
+      "link": "https://thepointsguy.com/travel/sanibel-island-travel-guide/",
+      "summary": "Here's what to know when planning a trip to Sanibel Island in Florida.",
+      "published": "2026-06-27T16:00:22+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "The Points Guy",
+      "title": "JSX adds Bay Area to network as it expands use of turboprops",
+      "link": "https://thepointsguy.com/news/jsx-air-carrier-outlook-santa-monica-atr-turboprops/",
+      "summary": "Boutique air carrier JSX will connect Santa Monica and Oakland in California this fall.",
+      "published": "2026-06-27T12:00:43+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "Frequent Miler",
+      "title": "Bilt Palladium Review: 6 month checkpoint | Frequent Miler on the Air Ep364 | 6-26-26",
+      "link": "https://frequentmiler.com/bilt-palladium-review-6-month-checkpoint-frequent-miler-on-the-air-ep364-6-26-26/",
+      "summary": "In today\u2019s episode, we\u2019ll talk about Qatar\u2019s crazy new rules if you want to redeem rewards for friends & family, how Wyndham is going to devalue (but it might not be so bad), and we\u2019ll take a look back at the first 6 months of Bilt 2.0: The\u2026",
+      "published": "2026-06-26T22:45:07+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "Frequent Miler",
+      "title": "Caesars brings back free show tickets for Diamond and Seven Stars members",
+      "link": "https://frequentmiler.com/caesars-brings-back-free-show-tickets-for-diamond-and-seven-stars-members/",
+      "summary": "Years ago, one of the many Caesars Diamond benefits was the chance to get two free show tickets per month at Caesars properties. Over the years, the value of that benefit really dwindled as the selection of shows dropped off. I went to see \u2026",
+      "published": "2026-06-26T21:45:21+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "The Points Guy",
+      "title": "Just graduated college? A credit card can help you build your way to great credit and free travel",
+      "link": "https://thepointsguy.com/credit-cards/graduated-college-why-you-need-credit-card/",
+      "summary": "If you're a recent college grad, getting a credit card may not be top of mind. Here are all the reasons why it's something you need to do.",
+      "published": "2026-06-26T21:00:35+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "The Points Guy",
+      "title": "Delta adds 3 new routes, including one former JetBlue market",
+      "link": "https://thepointsguy.com/news/delta-air-lines-new-routes-new-york-jfk-lagurdia-newark-los-angeles-austin/",
+      "summary": "Delta Air Lines is adding three new routes from New York and Austin.",
+      "published": "2026-06-26T19:30:28+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "Frequent Miler",
+      "title": "Asiana to exit Star Alliance on 12/16/26",
+      "link": "https://frequentmiler.com/asiana-to-exit-star-alliance-on-12-16-26/",
+      "summary": "This week, it was announced that Asiana Airlines will officially leave Star Alliance as of December 16, 2026. Interestingly, as Loyalty Lobby covers, Asiana is canceling even already-ticketed awards for travel on Star Alliance using Asiana \u2026",
+      "published": "2026-06-26T16:05:11+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "Thrifty Traveler",
+      "title": "Last Chance: 10 of the Best Amazon Prime Day Bargains for Travelers",
+      "link": "https://thriftytraveler.com/deals/amazon-prime-day-deals-for-travelers/",
+      "summary": "Tuesday kicked off Amazon's annual Prime Day (multiple days, really) \u2013 the first of two annual Prime Day sales. Whether you're looking to treat yourself or get a gift for \u2026 Continued",
+      "published": "2026-06-26T11:45:58+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "God Save the Points",
+      "title": "My First \u201cNew\u201d Chase Sapphire Reserve Travel Redemption Blew My Mind",
+      "link": "https://www.godsavethepoints.com/new-chase-sapphire-reserve-travel-redemption/",
+      "summary": "There\u2019s\u2026 a lot\u2026 of coverage surrounding the revamped Chase Sapphire Reserve Card. As per usual these days, the hot takes are plentiful and people are fired... The post My First \u201cNew\u201d Chase Sapphire Reserve Travel Redemption Blew My Mind app\u2026",
+      "published": "2025-07-01T10:56:49+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "God Save the Points",
+      "title": "Wander.com: Best Luxury Take On Airbnb (With Real Value Too?)",
+      "link": "https://www.godsavethepoints.com/wander-com-best-luxury-take-on-airbnb-with-real-value-too/",
+      "summary": "At first, the big hotel chains of the world laughed off Airbnb and vacation rentals. No seriously, they did. Now, they all compete in the vacation... The post Wander.com: Best Luxury Take On Airbnb (With Real Value Too?) appeared first on G\u2026",
+      "published": "2025-06-04T19:49:00+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "God Save the Points",
+      "title": "This Is The Summer To Tick Santorini Off The Bucket List",
+      "link": "https://www.godsavethepoints.com/santorini-summer-2025-opportunity/",
+      "summary": "Santorini has been overcrowded in recent years, but a quiet season means it\u2019s the perfect time to grab a bargain, or a better experience. It\u2019s June,... The post This Is The Summer To Tick Santorini Off The Bucket List appeared first on God \u2026",
+      "published": "2025-06-03T15:31:00+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "God Save the Points",
+      "title": "Virgin Atlantic Ups The Ante In India, As The World Dials In",
+      "link": "https://www.godsavethepoints.com/virgin-atlantic-ups-ante-india-with-partners/",
+      "summary": "This week, Virgin Atlantic celebrates 25 years of flying to India. In Virgin fashion, it\u2019s doing so in style, with a joint announcement among partners Delta... The post Virgin Atlantic Ups The Ante In India, As The World Dials In appeared f\u2026",
+      "published": "2025-06-03T15:24:10+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "God Save the Points",
+      "title": "Global Airlines Is \u201cFyre Festival\u201d, Not Virgin Atlantic",
+      "link": "https://www.godsavethepoints.com/global-airlines-fyre-festival-virgin-atlantic/",
+      "summary": "Yesterday, a Hi-Fly charter airplane took off from Glasgow bound for New York, with Hi-Fly crews and pilots. If you read the papers, it was purportedly... The post Global Airlines Is \u201cFyre Festival\u201d, Not Virgin Atlantic appeared first on Go\u2026",
+      "published": "2025-05-16T15:24:26+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "God Save the Points",
+      "title": "New Credit Card Sets Annual Fee Dynamically, Based On Benefit Usage",
+      "link": "https://www.godsavethepoints.com/new-card-dynamic-annual-fee/",
+      "summary": "Among savvy Redditors and credit card blogs, there\u2019s a common thread with many recent credit card changes. \u201cIt feels like a coupon book\u201d is often the... The post New Credit Card Sets Annual Fee Dynamically, Based On Benefit Usage appeared f\u2026",
+      "published": "2025-04-02T00:12:19+00:00",
+      "is_deal": false
+    },
+    {
+      "source": "God Save the Points",
+      "title": "What\u2019s Your Airport Dwell Time? A Metric Businesses Think A Lot About",
+      "link": "https://www.godsavethepoints.com/airport-dwell-time-musings/",
+      "summary": "Dwell time, simply, is how long you spend in an airport, or airport space, before a flight. For most people, it\u2019s not something they\u2019ve ever actively... The post What\u2019s Your Airport Dwell Time? A Metric Businesses Think A Lot About appeared\u2026",
+      "published": "2025-04-01T12:33:05+00:00",
+      "is_deal": false
+    }
+  ]
+}

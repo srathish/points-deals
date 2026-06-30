@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0a0f1e">
+<title>💳 Points & Miles Deals</title>
+<style>
+  :root{--bg:#0a0f1e;--card:#141c33;--card2:#0f1729;--border:#27314f;--text:#eaf0ff;--muted:#8b97bd;--accent:#ffd166;--hot:#ff6b6b;--good:#4cc2ff}
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  body{margin:0;background:linear-gradient(180deg,#0a0f1e,#0c1428);color:var(--text);
+       font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;padding:max(14px,env(safe-area-inset-top)) 14px max(28px,env(safe-area-inset-bottom));-webkit-font-smoothing:antialiased}
+  .wrap{max-width:760px;margin:0 auto}
+  header{display:flex;align-items:baseline;justify-content:space-between;gap:8px;flex-wrap:wrap}
+  h1{font-size:22px;margin:6px 0}
+  .sub{color:var(--muted);font-size:13px;margin:0 0 14px}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:12px;margin-bottom:12px}
+  .controls{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+  input,select{background:var(--card2);border:1px solid var(--border);color:var(--text);border-radius:10px;padding:10px 11px;font-size:14px;font-family:inherit}
+  .search{flex:1;min-width:150px}
+  .chips{display:flex;gap:7px;flex-wrap:wrap;margin-top:10px}
+  .chip{background:var(--card2);border:1px solid var(--border);color:var(--muted);border-radius:999px;padding:6px 12px;cursor:pointer;font-weight:600;font-size:12px}
+  .chip.active{background:var(--accent);color:#2a2206;border-color:var(--accent)}
+  a.deal{display:block;padding:13px;border:1px solid var(--border);border-radius:12px;margin-bottom:9px;background:var(--card2);text-decoration:none;color:var(--text)}
+  a.deal:active{border-color:var(--accent)}
+  a.deal.hot{border-left:3px solid var(--hot)}
+  .top{display:flex;justify-content:space-between;gap:8px;align-items:center;margin-bottom:5px}
+  .src{font-size:11px;font-weight:800;color:var(--good)}
+  .when{font-size:11px;color:var(--muted);white-space:nowrap}
+  .title{font-weight:700;font-size:15px;line-height:1.25}
+  .snip{color:var(--muted);font-size:13px;margin-top:5px;line-height:1.35}
+  .tag{display:inline-block;font-size:10px;font-weight:800;color:#2a0606;background:var(--hot);border-radius:5px;padding:1px 6px;margin-left:6px;vertical-align:middle}
+  .empty{color:var(--muted);text-align:center;padding:24px}
+  .banner{font-size:12px;color:var(--muted);background:rgba(255,209,102,.08);border:1px solid rgba(255,209,102,.3);border-radius:10px;padding:10px;margin-bottom:12px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header><h1>💳 Points & Miles Deals</h1><span class="sub" id="updated"></span></header>
+  <p class="sub" id="meta">Loading…</p>
+
+  <div class="card">
+    <div class="controls">
+      <input class="search" id="search" placeholder="Search (e.g. United, Hyatt, transfer bonus)…">
+      <select id="sort"><option value="new">Newest</option><option value="src">By source</option></select>
+    </div>
+    <div class="chips" id="srcChips"></div>
+    <div class="chips">
+      <span class="chip active" data-mode="deals">🔥 Deals only</span>
+      <span class="chip" data-mode="all">All posts</span>
+    </div>
+  </div>
+
+  <div id="list"></div>
+</div>
+
+<script>
+let DATA={deals:[]}, srcFilter="ALL", mode="deals";
+function when(iso){ if(!iso) return ""; const s=(Date.now()-new Date(iso))/1000;
+  if(s<3600) return Math.max(1,Math.floor(s/60))+"m ago"; if(s<86400) return Math.floor(s/3600)+"h ago";
+  return Math.floor(s/86400)+"d ago"; }
+function esc(s){return(s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));}
+
+function render(){
+  const q=document.getElementById("search").value.trim().toLowerCase();
+  const sort=document.getElementById("sort").value;
+  let arr=[...(DATA.deals||[])];
+  if(mode==="deals") arr=arr.filter(d=>d.is_deal);
+  if(srcFilter!=="ALL") arr=arr.filter(d=>d.source===srcFilter);
+  if(q) arr=arr.filter(d=>(d.title+" "+d.summary+" "+d.source).toLowerCase().includes(q));
+  if(sort==="src") arr.sort((a,b)=>a.source.localeCompare(b.source)||(b.published||"").localeCompare(a.published||""));
+  else arr.sort((a,b)=>(b.published||"").localeCompare(a.published||""));
+  const list=document.getElementById("list");
+  if(!arr.length){ list.innerHTML=`<div class="empty">No deals match. Try “All posts” or clear the search.</div>`; return; }
+  list.innerHTML=arr.map(d=>`<a class="deal ${d.is_deal?'hot':''}" href="${esc(d.link)}" target="_blank" rel="noopener">
+      <div class="top"><span class="src">${esc(d.source)}${d.is_deal?'<span class="tag">DEAL</span>':''}</span><span class="when">${when(d.published)}</span></div>
+      <div class="title">${esc(d.title)}</div>
+      ${d.summary?`<div class="snip">${esc(d.summary)}</div>`:""}
+    </a>`).join("");
+}
+
+function buildSrcChips(){
+  const box=document.getElementById("srcChips");
+  const srcs=["ALL",...(DATA.sources||[...new Set((DATA.deals||[]).map(d=>d.source))])];
+  box.innerHTML=srcs.map((s,i)=>`<span class="chip ${i===0?'active':''}" data-src="${esc(s)}">${s==="ALL"?"All sources":esc(s)}</span>`).join("");
+  box.querySelectorAll(".chip").forEach(c=>c.onclick=()=>{box.querySelectorAll(".chip").forEach(x=>x.classList.remove("active"));c.classList.add("active");srcFilter=c.dataset.src;render();});
+}
+document.querySelectorAll(".chips .chip[data-mode]").forEach(c=>c.onclick=()=>{
+  document.querySelectorAll(".chip[data-mode]").forEach(x=>x.classList.remove("active"));c.classList.add("active");mode=c.dataset.mode;render();});
+document.getElementById("search").oninput=render;
+document.getElementById("sort").onchange=render;
+
+fetch("./deals.json?cb="+Date.now()).then(r=>r.json()).then(d=>{
+  DATA=d;
+  document.getElementById("updated").textContent=d.updated?("Updated "+d.updated):"";
+  const deals=(d.deals||[]).filter(x=>x.is_deal).length;
+  document.getElementById("meta").textContent=`${deals} deals • ${(d.deals||[]).length} posts • ${(d.sources||[]).length} sources`;
+  buildSrcChips(); render();
+}).catch(()=>{document.getElementById("meta").textContent="Couldn't load deals.json";});
+</script>
+</body>
+</html>
