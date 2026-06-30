@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#0a0f1e">
-<title>💳 Points & Miles Deals</title>
+<title>💳✈️ Points, Miles & Flight Deals</title>
 <style>
   :root{--bg:#0a0f1e;--card:#141c33;--card2:#0f1729;--border:#27314f;--text:#eaf0ff;--muted:#8b97bd;--accent:#ffd166;--hot:#ff6b6b;--good:#4cc2ff}
   *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
@@ -30,13 +30,15 @@
   .title{font-weight:700;font-size:15px;line-height:1.25}
   .snip{color:var(--muted);font-size:13px;margin-top:5px;line-height:1.35}
   .tag{display:inline-block;font-size:10px;font-weight:800;color:#2a0606;background:var(--hot);border-radius:5px;padding:1px 6px;margin-left:6px;vertical-align:middle}
+  .tag.fly{background:var(--good);color:#04243a}
+  .tag.biz{background:var(--accent);color:#2a2206}
   .empty{color:var(--muted);text-align:center;padding:24px}
   .banner{font-size:12px;color:var(--muted);background:rgba(255,209,102,.08);border:1px solid rgba(255,209,102,.3);border-radius:10px;padding:10px;margin-bottom:12px}
 </style>
 </head>
 <body>
 <div class="wrap">
-  <header><h1>💳 Points & Miles Deals</h1><span class="sub" id="updated"></span></header>
+  <header><h1>💳✈️ Points, Miles & Flight Deals</h1><span class="sub" id="updated"></span></header>
   <p class="sub" id="meta">Loading…</p>
 
   <div class="card">
@@ -46,7 +48,9 @@
     </div>
     <div class="chips" id="srcChips"></div>
     <div class="chips">
-      <span class="chip active" data-mode="deals">🔥 Deals only</span>
+      <span class="chip active" data-mode="deals">🔥 Deals</span>
+      <span class="chip" data-mode="flight">✈️ Flights</span>
+      <span class="chip" data-mode="biz">🥂 Business class</span>
       <span class="chip" data-mode="all">All posts</span>
     </div>
   </div>
@@ -66,6 +70,8 @@ function render(){
   const sort=document.getElementById("sort").value;
   let arr=[...(DATA.deals||[])];
   if(mode==="deals") arr=arr.filter(d=>d.is_deal);
+  else if(mode==="flight") arr=arr.filter(d=>d.is_flight);
+  else if(mode==="biz") arr=arr.filter(d=>d.is_biz);
   if(srcFilter!=="ALL") arr=arr.filter(d=>d.source===srcFilter);
   if(q) arr=arr.filter(d=>(d.title+" "+d.summary+" "+d.source).toLowerCase().includes(q));
   if(sort==="src") arr.sort((a,b)=>a.source.localeCompare(b.source)||(b.published||"").localeCompare(a.published||""));
@@ -73,7 +79,7 @@ function render(){
   const list=document.getElementById("list");
   if(!arr.length){ list.innerHTML=`<div class="empty">No deals match. Try “All posts” or clear the search.</div>`; return; }
   list.innerHTML=arr.map(d=>`<a class="deal ${d.is_deal?'hot':''}" href="${esc(d.link)}" target="_blank" rel="noopener">
-      <div class="top"><span class="src">${esc(d.source)}${d.is_deal?'<span class="tag">DEAL</span>':''}</span><span class="when">${when(d.published)}</span></div>
+      <div class="top"><span class="src">${esc(d.source)}${d.is_deal?'<span class="tag">DEAL</span>':''}${d.is_biz?'<span class="tag biz">BIZ</span>':(d.is_flight?'<span class="tag fly">FLIGHT</span>':'')}</span><span class="when">${when(d.published)}</span></div>
       <div class="title">${esc(d.title)}</div>
       ${d.summary?`<div class="snip">${esc(d.summary)}</div>`:""}
     </a>`).join("");
@@ -93,8 +99,9 @@ document.getElementById("sort").onchange=render;
 fetch("./deals.json?cb="+Date.now()).then(r=>r.json()).then(d=>{
   DATA=d;
   document.getElementById("updated").textContent=d.updated?("Updated "+d.updated):"";
-  const deals=(d.deals||[]).filter(x=>x.is_deal).length;
-  document.getElementById("meta").textContent=`${deals} deals • ${(d.deals||[]).length} posts • ${(d.sources||[]).length} sources`;
+  const ds=(d.deals||[]);
+  const deals=ds.filter(x=>x.is_deal).length, fl=ds.filter(x=>x.is_flight).length, bz=ds.filter(x=>x.is_biz).length;
+  document.getElementById("meta").textContent=`${deals} deals • ${fl} flights • ${bz} business • ${ds.length} posts • ${(d.sources||[]).length} sources`;
   buildSrcChips(); render();
 }).catch(()=>{document.getElementById("meta").textContent="Couldn't load deals.json";});
 </script>
